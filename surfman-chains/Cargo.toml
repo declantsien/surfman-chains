@@ -11,7 +11,7 @@ repository = "https://github.com/asajeffrey/surfman-chains"
 path = "lib.rs"
 
 [dependencies]
-euclid = "0.20"
+euclid = "0.22"
 fnv = "1.0"
 log = "0.4"
 sparkle = "0.1"
